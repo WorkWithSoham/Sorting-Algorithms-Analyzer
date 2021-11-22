@@ -6,7 +6,6 @@ UTA ID: 1001960847
 5311 - Programming Project
 
 '''
-from timeit import default_timer as dt
 from eel import init, expose, start # Python eel library to create GUI
 
 import algorithms as algo # algorithms.py file to get all the sorted algorithms
